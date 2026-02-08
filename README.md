@@ -1,4 +1,7 @@
 # 📊 Dashboard – Promedio anual de reclusos por país
+
+![dashboard final](https://github.com/user-attachments/assets/587b175e-194a-410b-b2bf-3010d59d0627)
+
 Este repositorio contiene un dashboard interactivo en Power BI que analiza el promedio anual de personas privadas de la libertad por país, utilizando datos internacionales armonizados y un proceso explícito de limpieza y estandarización para garantizar comparabilidad.
 
 ## 🎯 Objetivo del proyecto
@@ -99,7 +102,10 @@ El dashboard se organiza en una sola página, con los siguientes elementos:
 
 -Sexo
 
-## Autor: Jose Serrano
+![segmentacion de datos](https://github.com/user-attachments/assets/a0d8d092-e672-4197-b435-0182e51557c1)
+
+## Autor: Jose Serrano![Uploading segmentacion de datos.jpg…]()
+
 ## Herramientas: Power BI · Power Query · DAX
 
 
