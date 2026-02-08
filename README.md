@@ -104,7 +104,7 @@ El dashboard se organiza en una sola página, con los siguientes elementos:
 
 ![segmentacion de datos](https://github.com/user-attachments/assets/a0d8d092-e672-4197-b435-0182e51557c1)
 
-## Autor: Jose Serrano![Uploading segmentacion de datos.jpg…]()
+## Autor: Jose Serrano
 
 ## Herramientas: Power BI · Power Query · DAX
 
