@@ -64,7 +64,7 @@ Uno de los puntos más importantes del proyecto:
 
 No todos los países tienen datos para los mismos años.
 
-Sumar valores a lo largo del tiempo genera comparaciones sesgadas.
+Sumar valores a lo largo del tiempo puede generar comparaciones incorrectas.
 
 ✅ Solución adoptada:
 
